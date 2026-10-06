@@ -1,0 +1,6 @@
+{
+  "name": "Snakes and Ladder",
+  "description": "Interactive educational Snakes and Ladder learning game featuring 3D dice, custom question banks, and single or multiplayer modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
